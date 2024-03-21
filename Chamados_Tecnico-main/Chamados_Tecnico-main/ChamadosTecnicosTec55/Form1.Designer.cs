@@ -1,4 +1,4 @@
-﻿namespace ChamadosTecnicosTec555
+﻿namespace ChamadosTecnicosTec55
 {
     partial class Form1
     {

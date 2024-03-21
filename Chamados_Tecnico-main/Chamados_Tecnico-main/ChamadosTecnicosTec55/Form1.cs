@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ChamadosTecnicosTec555
+namespace ChamadosTecnicosTec55
 {
     public partial class Form1 : Form
     {

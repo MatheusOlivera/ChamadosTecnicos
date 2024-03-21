@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ChamadosTecnicosTec555.Properties
+namespace ChamadosTecnicosTec55.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace ChamadosTecnicosTec555.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ChamadosTecnicosTec555.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ChamadosTecnicosTec55.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
